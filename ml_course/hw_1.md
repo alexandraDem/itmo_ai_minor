@@ -46,7 +46,7 @@ https://www.kaggle.com/datasets/kishanj/currency-symbol-datasets/data
 
 - **F1-score**.
 
-**Почему именно F1-macro:**
+**Почему именно F1:**
 
 - F1 учитывает и **precision**, и **recall**, то есть одновременно штрафует за ложные срабатывания 
   и за пропуски. 
